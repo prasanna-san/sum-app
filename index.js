@@ -20,6 +20,9 @@ app.listen(PORT, () => {
 });
 
 
+// three states
+/// working directory -> all changes stages
+
 
 // const express = require("express");
 // const cors = require("cors");
